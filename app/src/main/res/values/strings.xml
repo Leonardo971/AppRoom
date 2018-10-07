@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppRoom</string>
+    <string name="clave_del_empleado">Clave del Empleado</string>
+    <string name="name">Nombre del Empleado</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="sueldo">Sueldo</string>
+</resources>
